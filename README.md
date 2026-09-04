@@ -8,12 +8,13 @@ I am completing a **B.S. in Software Development at Bellevue University (expecte
 
 ---
 
-## 📊 Data Analytics & Business Intelligence
+## 📊 Featured Analytics Portfolio
 
-My analytics portfolio focuses on applying data to real operational and business decisions.
+**Start here:** [Professional Analytics Portfolio](portfolio/README.md)
+
+My analytics work focuses on applying data to real operational and business decisions.
 
 ### 🚚 Food Delivery Time Prediction
-
 Predictive analytics project focused on delivery-time performance and operational decision-making.
 
 **Highlights:**
@@ -27,7 +28,6 @@ Predictive analytics project focused on delivery-time performance and operationa
 **Technologies:** Python, pandas, NumPy, scikit-learn, data visualization, machine learning
 
 ### 📦 Multi-Echelon Inventory Optimization
-
 Supply-chain analytics project designed to improve inventory availability, working capital, and supplier performance.
 
 **Highlights:**
@@ -43,7 +43,6 @@ Supply-chain analytics project designed to improve inventory availability, worki
 **Technologies:** Python, pandas, NumPy, inventory analytics, optimization concepts, business intelligence
 
 ### 🛒 Retail Market Basket Analysis
-
 Association-rule mining project designed to identify product relationships and support merchandising decisions.
 
 **Highlights:**
@@ -57,20 +56,11 @@ Association-rule mining project designed to identify product relationships and s
 **Technologies:** Python, pandas, association-rule mining, Apriori, data visualization
 
 ### 🏨 Vienna Accommodation Pricing Intelligence
-
 Pricing analytics project examining relationships among accommodation pricing, location, and property characteristics.
-
-**Highlights:**
-- Exploratory data analysis
-- Regression modeling
-- Neighborhood and property-feature analysis
-- Actual-versus-expected pricing analysis
-- Interactive visualization and geographic analysis
 
 **Technologies:** Python, pandas, NumPy, statsmodels, Plotly
 
 ### 🚲 Cyclistic Customer Analytics
-
 Business and marketing analytics project focused on customer behavior, segmentation, data cleaning, and actionable recommendations.
 
 **Technologies:** Python, pandas, data cleaning, customer analytics, visualization
@@ -79,24 +69,7 @@ Business and marketing analytics project focused on customer behavior, segmentat
 
 ## 🔐 Cybersecurity
 
-I have completed formal cybersecurity training and hands-on labs covering:
-
-- Security operations and SIEM concepts
-- Splunk and Microsoft Sentinel
-- Endpoint detection and response concepts
-- CrowdStrike concepts
-- Wireshark and network analysis
-- Incident response
-- Threat intelligence
-- NIST cybersecurity concepts
-- MITRE ATT&CK
-- IAM and access control
-- Secure network architecture
-- API security
-- Cloud security concepts across AWS, Azure, and GCP
-- Infrastructure-as-code security concepts
-- Docker and Kubernetes security concepts
-- Python and Bash for security automation
+I have completed formal cybersecurity training and hands-on labs covering SIEM concepts, Splunk, Microsoft Sentinel, endpoint detection and response concepts, CrowdStrike concepts, Wireshark, incident response, threat intelligence, NIST, MITRE ATT&CK, IAM, secure network architecture, API security, cloud security concepts, infrastructure-as-code security concepts, Docker/Kubernetes security concepts, and Python/Bash security automation.
 
 I position these capabilities as **training, coursework, and laboratory experience** unless specifically supported by professional production experience.
 
@@ -104,146 +77,36 @@ I position these capabilities as **training, coursework, and laboratory experien
 
 ## 💻 Software Development
 
-### ⚓ Moffat Bay Marina — CSD 460 Capstone
+My supporting development work includes Java/Jakarta EE, JSP, Servlets, JDBC, MySQL, MVC/DAO patterns, Python, REST APIs, JSON, JavaFX, PHP, HTML/CSS/JavaScript, Git/GitHub, and database development.
 
-Team-based full-stack development project for a marina application.
+Selected academic and project repositories include:
 
-**Highlights:**
-- Customer registration and authentication workflows
-- Reservation functionality
-- Reservation lookup and history
-- Reservation cancellation
-- Wait-list functionality
-- Responsive web interface
-- JavaScript functionality
-- User stories and requirements analysis
-- Functional prototype using browser local storage
-
-**Technologies:** HTML, CSS, JavaScript, full-stack web development
-
-### ☕ Java / Jakarta EE Movie Database Application — CSD 430
-
-Database-backed web application demonstrating server-side Java development and MVC concepts.
-
-**Highlights:**
-- JSP pages
-- Java Servlets
-- JavaBeans
-- JDBC
-- MySQL
-- CRUD functionality
-- DAO/controller/model structure
-- SQL queries
-- PreparedStatement
-- Dynamic web forms
-
-**Technologies:** Java, JSP, Servlets, Jakarta EE, JDBC, MySQL
-
-### 🐍 Python Database & REST API Applications — CSD 310 / CSD 325
-
-Python applications working with relational databases and external APIs.
-
-**Highlights:**
-- Python-to-MySQL connectivity
-- SQL queries and relational data processing
-- REST API consumption
-- HTTP response handling
-- JSON parsing and processing
-- Exception handling
-- Automated unit testing with `unittest`
-- Environment-based configuration
-
-**Technologies:** Python, MySQL, SQL, REST APIs, JSON, `requests`, `unittest`
-
-### ☕ Advanced Java Applications — CSD 420
-
-Applications demonstrating advanced Java programming concepts.
-
-**Highlights:**
-- Generic algorithms
-- Comparable and Comparator
-- Collections
-- LinkedList performance analysis
-- Duplicate-removal algorithms
-- JavaFX
-- Multithreading
-- UI thread coordination
-
-**Technologies:** Java, JavaFX, Generics, Collections, Multithreading
-
-### 🌐 PHP Server-Side Applications — CSD 440
-
-Server-side PHP applications developed using XAMPP.
-
-**Technologies:** PHP, HTML, CSS, XAMPP
+- **CSD 430:** Java/Jakarta EE server-side and database application development
+- **CSD 420:** Advanced Java, generics, collections, algorithms, JavaFX, and multithreading
+- **CSD 325:** Python, REST APIs, JSON, database programming, and testing
+- **CSD 310:** SQL and relational database development
+- **CSD 440:** PHP server-side scripting
+- **CSD 340 / BioSite:** HTML5, CSS, responsive web development
+- **CSD 460:** Moffat Bay Marina team capstone
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### Data & Analytics
-- Python
-- SQL
-- pandas
-- NumPy
-- scikit-learn
-- Power BI
-- Tableau
-- R
-- Plotly
-- Advanced Excel
-- Data visualization
-- Predictive analytics
-- Business intelligence
+Python · SQL · pandas · NumPy · scikit-learn · Power BI · Tableau · R · Plotly · Advanced Excel · Data Visualization · Predictive Analytics · Business Intelligence
 
 ### Databases & Data Platforms
-- MySQL
-- Snowflake
-- Teradata
-- Hadoop
-- Spark
-- Relational database design
-- ERD / data modeling
-- Database normalization
+MySQL · Snowflake · Teradata · Hadoop · Spark · Relational Database Design · ERD / Data Modeling · Database Normalization
 
 ### Software Development
-- Java
-- Python
-- JavaScript
-- PHP
-- HTML5
-- CSS3
-- JSP
-- Java Servlets
-- Jakarta EE / JEE
-- JDBC
-- REST APIs
-- JSON
-- CRUD
-- MVC concepts
-- JavaFX
+Java · Python · JavaScript · PHP · HTML5 · CSS3 · JSP · Java Servlets · Jakarta EE / JEE · JDBC · REST APIs · JSON · CRUD · MVC Concepts · JavaFX
 
 ### Cybersecurity
-- SIEM concepts
-- Incident response
-- Threat intelligence
-- Network security
-- IAM
-- Wireshark
-- Secure software development
-- NIST
-- MITRE ATT&CK
-- Cloud security concepts
+SIEM Concepts · Incident Response · Threat Intelligence · Network Security · IAM · Wireshark · Secure Software Development · NIST · MITRE ATT&CK · Cloud Security Concepts
 
 ### Engineering & Tools
-- Git / GitHub
-- Eclipse
-- Spring Tools
-- Apache Tomcat
-- XAMPP
-- Docker concepts
-- Kubernetes concepts
-- Terraform concepts
+Git / GitHub · Eclipse · Spring Tools · Apache Tomcat · XAMPP · Docker Concepts · Kubernetes Concepts · Terraform Concepts
 
 ---
 
@@ -252,8 +115,6 @@ Server-side PHP applications developed using XAMPP.
 **Bellevue University**  
 Bachelor of Science in Software Development  
 **Expected October 2026**
-
-Relevant areas include software development, Python, databases, Java, advanced Java, web development, secure software development, DevOps, server-side development, server-side scripting, and software development capstone work.
 
 Additional professional learning includes:
 - Google Data Analytics Certificate
@@ -273,35 +134,15 @@ I have led complex transportation, distribution, fulfillment, retail, and supply
 
 That perspective helps me translate technical analysis into operational decisions, measurable improvements, and business value.
 
-I'm particularly interested in opportunities at the intersection of:
-
-- Data Analytics
-- Business Intelligence
-- Supply Chain Analytics
-- Operations Analytics
-- Transportation Analytics
-- Cybersecurity
-- Software Development
-- Technology-enabled operational improvement
+I'm particularly interested in opportunities at the intersection of **Data Analytics, Business Intelligence, Supply Chain Analytics, Operations Analytics, Transportation Analytics, Cybersecurity, Software Development, and technology-enabled operational improvement.**
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: [Aftaburr01](https://github.com/Aftaburr01)
-- LinkedIn: [Aftabur Rahman](https://www.linkedin.com/in/aftabur-rahman-mba)
-
----
+- [GitHub](https://github.com/Aftaburr01)
+- [LinkedIn](https://www.linkedin.com/in/aftabur-rahman-mba)
 
 ### Currently Seeking
 
-Opportunities where I can combine **business leadership, analytics, technology, and problem solving**, including:
-
-- Data Analyst / Business Analyst
-- Business Intelligence Analyst
-- Operations / Supply Chain Analytics
-- Transportation Analytics
-- Data Analytics roles
-- Cybersecurity Analyst opportunities
-- Software Development / Technology roles
-- Technology-focused operations and transformation roles
+Opportunities where I can combine **business leadership, analytics, technology, and problem solving**, including data/business analysis, business intelligence, operations and supply-chain analytics, transportation analytics, cybersecurity, software development, and technology-focused transformation roles.
