@@ -1,122 +1,115 @@
 # Hi, I'm Aftabur Rahman 👋
 
-## Data Analytics | Business Intelligence | Cybersecurity | Software Development
+## Business Operations Leader | Data Analytics | Business Intelligence | Technology
 
-I'm a **business-first technologist** combining more than **30 years of operations, transportation, supply chain, distribution, and business leadership** with hands-on training and project experience in **data analytics, cybersecurity, and software development**.
+> **30+ years of operations, transportation, supply chain, distribution, and business leadership — combined with modern analytics, software development, and cybersecurity capabilities.**
 
-I am completing a **B.S. in Software Development at Bellevue University (expected October 2026)**. My goal is to use technology, data, and software to solve practical business problems—not simply build technology for its own sake.
+I am a **business-first technologist** completing a **B.S. in Software Development at Bellevue University (expected October 2026)**. I use technology and data to understand business problems, improve decisions, and build practical solutions.
 
 ---
 
-## 📊 Featured Analytics Portfolio
+## 🚀 Start Here
 
-**Start here:** [Professional Analytics Portfolio](portfolio/README.md)
+| Portfolio | What you'll find |
+|---|---|
+| 📊 **[Analytics Portfolio](portfolio/README.md)** | Business analytics, predictive modeling, supply-chain analytics, and decision support |
+| 💻 **Software Development** | Python, Java/Jakarta EE, JSP/Servlets, PHP, JavaScript, APIs, databases |
+| 🔐 **Cybersecurity** | Security coursework, hands-on labs, threat analysis, SIEM, incident response, and secure development |
 
-My analytics work focuses on applying data to real operational and business decisions.
+### My professional value proposition
+
+**Business context + technical capability + measurable operational thinking.**
+
+I don't approach technology as an end in itself. My focus is on questions such as:
+
+- Where is performance breaking down?
+- What is driving cost, service, quality, or productivity variation?
+- How can data improve operational decisions?
+- Where can software eliminate repetitive work or improve reliability?
+- How can an analytical insight become an actionable business improvement?
+
+---
+
+# 📊 Featured Analytics Portfolio
 
 ### 🚚 Food Delivery Time Prediction
-Predictive analytics project focused on delivery-time performance and operational decision-making.
+Predictive analytics focused on delivery-time performance and operational decision-making.
 
-**Highlights:**
-- 45,593 completed orders analyzed
-- Data-quality review and coordinate cleanup
-- Haversine distance and operational feature engineering
-- Comparison of Linear Regression, Random Forest, Gradient Boosting, and MLP models
-- Gradient Boosting produced the strongest model performance in the project
-- Recommendations focused on ETA buffers, fleet matching, order stacking, and operational planning
+**Highlights:** 45,593 completed orders · data-quality review · Haversine distance · operational feature engineering · model comparison · ETA and fleet-planning recommendations
 
-**Technologies:** Python, pandas, NumPy, scikit-learn, data visualization, machine learning
+**Stack:** Python · pandas · NumPy · scikit-learn · visualization · machine learning
+
+➡️ **[View the full project](portfolio/01-food-delivery-time-prediction/README.md)**
 
 ### 📦 Multi-Echelon Inventory Optimization
-Supply-chain analytics project designed to improve inventory availability, working capital, and supplier performance.
+Supply-chain analytics focused on inventory availability, working capital, and supplier performance.
 
-**Highlights:**
-- 126 active vendors
-- $321.9M supplier spend analyzed
-- 5,543 invoices and 33.6M units analyzed
-- ABC/XYZ segmentation
-- Economic Order Quantity (EOQ)
-- Stochastic safety stock
-- Supplier SLA analysis
-- Vendor-managed inventory and postponement strategies
+**Highlights:** 126 vendors · $321.9M supplier spend · 5,543 invoices · 33.6M units · ABC/XYZ · EOQ · stochastic safety stock · supplier SLA analysis
 
-**Technologies:** Python, pandas, NumPy, inventory analytics, optimization concepts, business intelligence
+**Stack:** Python · pandas · NumPy · inventory analytics · optimization concepts · business intelligence
+
+➡️ **[View the full project](portfolio/02-multi-echelon-inventory-optimization/README.md)**
 
 ### 🛒 Retail Market Basket Analysis
-Association-rule mining project designed to identify product relationships and support merchandising decisions.
+Association-rule mining focused on product relationships and merchandising decisions.
 
-**Highlights:**
-- 7,501 transactions analyzed
-- 119 unique products
-- 160 association rules evaluated
-- Apriori algorithm
-- Support, confidence, and lift analysis
-- Recommendations for product bundles, shelf placement, and targeted promotions
+**Highlights:** 7,501 transactions · 119 products · 160 association rules · Apriori · support/confidence/lift · bundle and promotion recommendations
 
-**Technologies:** Python, pandas, association-rule mining, Apriori, data visualization
+**Stack:** Python · pandas · Apriori · association-rule mining · visualization
 
-### 🏨 Vienna Accommodation Pricing Intelligence
-Pricing analytics project examining relationships among accommodation pricing, location, and property characteristics.
+➡️ **[View the full project](portfolio/03-retail-market-basket-analysis/README.md)**
 
-**Technologies:** Python, pandas, NumPy, statsmodels, Plotly
+### Additional Analytics Projects
 
-### 🚲 Cyclistic Customer Analytics
-Business and marketing analytics project focused on customer behavior, segmentation, data cleaning, and actionable recommendations.
-
-**Technologies:** Python, pandas, data cleaning, customer analytics, visualization
+- 🏨 **Vienna Accommodation Pricing Intelligence** — pricing, location, property characteristics, statistical modeling, and visualization
+- 🚲 **Cyclistic Customer Analytics** — customer behavior, segmentation, data cleaning, and actionable business recommendations
 
 ---
 
-## 🔐 Cybersecurity
+# 💻 Software Development
 
-I have completed formal cybersecurity training and hands-on labs covering SIEM concepts, Splunk, Microsoft Sentinel, endpoint detection and response concepts, CrowdStrike concepts, Wireshark, incident response, threat intelligence, NIST, MITRE ATT&CK, IAM, secure network architecture, API security, cloud security concepts, infrastructure-as-code security concepts, Docker/Kubernetes security concepts, and Python/Bash security automation.
+My software-development portfolio demonstrates progression from programming fundamentals to database-backed and server-side applications.
 
-I position these capabilities as **training, coursework, and laboratory experience** unless specifically supported by professional production experience.
+### Selected repositories
 
----
-
-## 💻 Software Development
-
-My supporting development work includes Java/Jakarta EE, JSP, Servlets, JDBC, MySQL, MVC/DAO patterns, Python, REST APIs, JSON, JavaFX, PHP, HTML/CSS/JavaScript, Git/GitHub, and database development.
-
-Selected academic and project repositories include:
-
-- **CSD 430:** Java/Jakarta EE server-side and database application development
-- **CSD 420:** Advanced Java, generics, collections, algorithms, JavaFX, and multithreading
-- **CSD 325:** Python, REST APIs, JSON, database programming, and testing
-- **CSD 310:** SQL and relational database development
-- **CSD 440:** PHP server-side scripting
-- **CSD 340 / BioSite:** HTML5, CSS, responsive web development
-- **CSD 460:** Moffat Bay Marina team capstone
+- **[CSD 325](https://github.com/Aftaburr01/csd-325)** — Python, REST APIs, JSON, MySQL, testing, and brownfield software maintenance
+- **[CSD 430](https://github.com/Aftaburr01/csd-430)** — Java/Jakarta EE, JSP, Servlets, JDBC, MySQL, MVC/DAO, and CRUD
+- **[CSD 420](https://github.com/Aftaburr01/csd-420)** — Advanced Java, generics, collections, algorithms, JavaFX, and multithreading
+- **[CSD 310](https://github.com/Aftaburr01/csd-310-)** — SQL, relational databases, MySQL, data modeling, and application/database integration
+- **[CSD 440](https://github.com/Aftaburr01/csd-440)** — PHP, server-side scripting, forms, and dynamic web applications
+- **[CSD 340](https://github.com/Aftaburr01/csd-340)** — HTML5, CSS, responsive web development, and Git/GitHub
+- **CSD 460 — Moffat Bay Marina team capstone** — web application development, registration/login, reservations, waitlist, history, and cancellation workflows
 
 ---
 
-## 🛠️ Technical Skills
+# 🔐 Cybersecurity
 
-### Data & Analytics
-Python · SQL · pandas · NumPy · scikit-learn · Power BI · Tableau · R · Plotly · Advanced Excel · Data Visualization · Predictive Analytics · Business Intelligence
+I have completed formal cybersecurity training and hands-on laboratory work covering SIEM concepts, Splunk, Microsoft Sentinel, EDR concepts, Wireshark, incident response, threat intelligence, NIST, MITRE ATT&CK, IAM, network security, API security, cloud-security concepts, and security automation concepts using Python/Bash.
 
-### Databases & Data Platforms
-MySQL · Snowflake · Teradata · Hadoop · Spark · Relational Database Design · ERD / Data Modeling · Database Normalization
-
-### Software Development
-Java · Python · JavaScript · PHP · HTML5 · CSS3 · JSP · Java Servlets · Jakarta EE / JEE · JDBC · REST APIs · JSON · CRUD · MVC Concepts · JavaFX
-
-### Cybersecurity
-SIEM Concepts · Incident Response · Threat Intelligence · Network Security · IAM · Wireshark · Secure Software Development · NIST · MITRE ATT&CK · Cloud Security Concepts
-
-### Engineering & Tools
-Git / GitHub · Eclipse · Spring Tools · Apache Tomcat · XAMPP · Docker Concepts · Kubernetes Concepts · Terraform Concepts
+I intentionally represent these capabilities as **training, coursework, and laboratory experience** unless supported by professional production experience.
 
 ---
 
-## 🎓 Education & Certifications
+# 🧰 Technical Stack
+
+**Analytics:** Python · SQL · pandas · NumPy · scikit-learn · Power BI · Tableau · R · Plotly · Advanced Excel
+
+**Data Platforms:** MySQL · Snowflake · Teradata · Hadoop · Spark · relational database design · data modeling
+
+**Development:** Java · Python · JavaScript · PHP · HTML5 · CSS3 · JSP · Servlets · Jakarta EE/JEE · JDBC · REST APIs · JSON · CRUD · MVC concepts · JavaFX
+
+**Security:** SIEM concepts · incident response · threat intelligence · IAM · Wireshark · secure software development · NIST · MITRE ATT&CK
+
+**Tools:** Git · GitHub · Eclipse · Spring Tools · Apache Tomcat · XAMPP · Docker concepts · Kubernetes concepts · Terraform concepts
+
+---
+
+# 🎓 Education & Certifications
 
 **Bellevue University**  
-Bachelor of Science in Software Development  
-**Expected October 2026**
+B.S. Software Development — **Expected October 2026**
 
-Additional professional learning includes:
+Additional professional learning:
 - Google Data Analytics Certificate
 - Google Cybersecurity Professional Certificate
 - Data Analytics Essentials
@@ -124,25 +117,25 @@ Additional professional learning includes:
 
 ---
 
-## 💼 The Business Advantage
+# 💼 The Business Advantage
 
-My differentiator is the combination of **technology capability and decades of real-world operational leadership**.
+My differentiator is not simply technical knowledge. It is the ability to connect technology with **real operating environments, customers, people, cost, service, productivity, and business results**.
 
-I have led complex transportation, distribution, fulfillment, retail, and supply-chain operations and understand the business questions behind the data:
+My leadership background spans transportation, distribution, fulfillment, retail, supply chain, and operational improvement. That experience gives me practical context for turning technical work into decisions that matter.
 
-> **What happened? Why did it happen? What should we do next?**
+> **Technology tells you what the data says. Business experience helps determine what to do about it.**
 
-That perspective helps me translate technical analysis into operational decisions, measurable improvements, and business value.
+I am particularly interested in opportunities involving:
 
-I'm particularly interested in opportunities at the intersection of **Data Analytics, Business Intelligence, Supply Chain Analytics, Operations Analytics, Transportation Analytics, Cybersecurity, Software Development, and technology-enabled operational improvement.**
+**Data Analytics · Business Intelligence · Operations Analytics · Supply Chain Analytics · Transportation Analytics · Cybersecurity · Software Development · Technology-Enabled Operational Improvement**
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect
 
-- [GitHub](https://github.com/Aftaburr01)
-- [LinkedIn](https://www.linkedin.com/in/aftabur-rahman-mba)
+- **[GitHub](https://github.com/Aftaburr01)**
+- **[LinkedIn](https://www.linkedin.com/in/aftabur-rahman-mba)**
 
 ### Currently Seeking
 
-Opportunities where I can combine **business leadership, analytics, technology, and problem solving**, including data/business analysis, business intelligence, operations and supply-chain analytics, transportation analytics, cybersecurity, software development, and technology-focused transformation roles.
+Roles where I can combine **business leadership, analytics, technology, and problem solving** to improve performance, support decisions, build solutions, and create measurable business value.
