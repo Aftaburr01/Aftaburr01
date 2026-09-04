@@ -1,63 +1,108 @@
 # Hi, I'm Aftabur Rahman 👋
 
-## Software Developer | Java • Python • Full-Stack Web Development
+## Data Analytics | Business Intelligence | Cybersecurity | Software Development
 
-I'm a software developer completing a **B.S. in Software Development at Bellevue University (expected 2026)**. I enjoy building practical applications, solving problems with code, and connecting technology to real-world business needs.
+I'm a **business-first technologist** combining more than **30 years of operations, transportation, supply chain, distribution, and business leadership** with hands-on training and project experience in **data analytics, cybersecurity, and software development**.
 
-I bring a unique combination of **software-development training and 30+ years of business and operations leadership**. That experience helps me understand not only how to build software, but also the operational problems that software needs to solve.
-
----
-
-## 🛠️ Technical Skills
-
-### Languages
-- Java
-- Python
-- JavaScript
-- PHP
-- SQL
-- HTML5
-- CSS3
-
-### Web & Application Development
-- JSP
-- Java Servlets
-- Jakarta EE / JEE
-- JDBC
-- REST APIs
-- JSON
-- CRUD applications
-- MVC concepts
-- JavaFX
-- Tkinter
-
-### Databases
-- MySQL
-- Relational database design
-- ERD / data modeling
-- Database normalization
-- Primary and foreign keys
-- NoSQL concepts
-
-### Software Engineering
-- Object-Oriented Programming
-- Generics & Collections
-- Multithreading
-- File I/O
-- Unit Testing
-- Git / GitHub / GitLab
-- DevOps concepts
-- Secure Software Development
-
-### Development Tools
-- Eclipse
-- Spring Tools
-- Apache Tomcat
-- XAMPP
+I am completing a **B.S. in Software Development at Bellevue University (expected October 2026)**. My goal is to use technology, data, and software to solve practical business problems—not simply build technology for its own sake.
 
 ---
 
-## 🚀 Featured Projects
+## 📊 Data Analytics & Business Intelligence
+
+My analytics portfolio focuses on applying data to real operational and business decisions.
+
+### 🚚 Food Delivery Time Prediction
+
+Predictive analytics project focused on delivery-time performance and operational decision-making.
+
+**Highlights:**
+- 45,593 completed orders analyzed
+- Data-quality review and coordinate cleanup
+- Haversine distance and operational feature engineering
+- Comparison of Linear Regression, Random Forest, Gradient Boosting, and MLP models
+- Gradient Boosting produced the strongest model performance in the project
+- Recommendations focused on ETA buffers, fleet matching, order stacking, and operational planning
+
+**Technologies:** Python, pandas, NumPy, scikit-learn, data visualization, machine learning
+
+### 📦 Multi-Echelon Inventory Optimization
+
+Supply-chain analytics project designed to improve inventory availability, working capital, and supplier performance.
+
+**Highlights:**
+- 126 active vendors
+- $321.9M supplier spend analyzed
+- 5,543 invoices and 33.6M units analyzed
+- ABC/XYZ segmentation
+- Economic Order Quantity (EOQ)
+- Stochastic safety stock
+- Supplier SLA analysis
+- Vendor-managed inventory and postponement strategies
+
+**Technologies:** Python, pandas, NumPy, inventory analytics, optimization concepts, business intelligence
+
+### 🛒 Retail Market Basket Analysis
+
+Association-rule mining project designed to identify product relationships and support merchandising decisions.
+
+**Highlights:**
+- 7,501 transactions analyzed
+- 119 unique products
+- 160 association rules evaluated
+- Apriori algorithm
+- Support, confidence, and lift analysis
+- Recommendations for product bundles, shelf placement, and targeted promotions
+
+**Technologies:** Python, pandas, association-rule mining, Apriori, data visualization
+
+### 🏨 Vienna Accommodation Pricing Intelligence
+
+Pricing analytics project examining relationships among accommodation pricing, location, and property characteristics.
+
+**Highlights:**
+- Exploratory data analysis
+- Regression modeling
+- Neighborhood and property-feature analysis
+- Actual-versus-expected pricing analysis
+- Interactive visualization and geographic analysis
+
+**Technologies:** Python, pandas, NumPy, statsmodels, Plotly
+
+### 🚲 Cyclistic Customer Analytics
+
+Business and marketing analytics project focused on customer behavior, segmentation, data cleaning, and actionable recommendations.
+
+**Technologies:** Python, pandas, data cleaning, customer analytics, visualization
+
+---
+
+## 🔐 Cybersecurity
+
+I have completed formal cybersecurity training and hands-on labs covering:
+
+- Security operations and SIEM concepts
+- Splunk and Microsoft Sentinel
+- Endpoint detection and response concepts
+- CrowdStrike concepts
+- Wireshark and network analysis
+- Incident response
+- Threat intelligence
+- NIST cybersecurity concepts
+- MITRE ATT&CK
+- IAM and access control
+- Secure network architecture
+- API security
+- Cloud security concepts across AWS, Azure, and GCP
+- Infrastructure-as-code security concepts
+- Docker and Kubernetes security concepts
+- Python and Bash for security automation
+
+I position these capabilities as **training, coursework, and laboratory experience** unless specifically supported by professional production experience.
+
+---
+
+## 💻 Software Development
 
 ### ⚓ Moffat Bay Marina — CSD 460 Capstone
 
@@ -72,15 +117,13 @@ Team-based full-stack development project for a marina application.
 - Responsive web interface
 - JavaScript functionality
 - User stories and requirements analysis
-- Functional prototypes using browser local storage
+- Functional prototype using browser local storage
 
 **Technologies:** HTML, CSS, JavaScript, full-stack web development
 
----
-
 ### ☕ Java / Jakarta EE Movie Database Application — CSD 430
 
-Developed a database-backed web application using Java and Jakarta EE technologies.
+Database-backed web application demonstrating server-side Java development and MVC concepts.
 
 **Highlights:**
 - JSP pages
@@ -89,21 +132,19 @@ Developed a database-backed web application using Java and Jakarta EE technologi
 - JDBC
 - MySQL
 - CRUD functionality
-- Controller / DAO / model structure
+- DAO/controller/model structure
 - SQL queries
 - PreparedStatement
 - Dynamic web forms
 
 **Technologies:** Java, JSP, Servlets, Jakarta EE, JDBC, MySQL
 
----
-
 ### 🐍 Python Database & REST API Applications — CSD 310 / CSD 325
 
-Developed Python applications that work with databases and external APIs.
+Python applications working with relational databases and external APIs.
 
 **Highlights:**
-- Python-to-MySQL database connectivity
+- Python-to-MySQL connectivity
 - SQL queries and relational data processing
 - REST API consumption
 - HTTP response handling
@@ -114,11 +155,9 @@ Developed Python applications that work with databases and external APIs.
 
 **Technologies:** Python, MySQL, SQL, REST APIs, JSON, `requests`, `unittest`
 
----
-
 ### ☕ Advanced Java Applications — CSD 420
 
-Developed Java applications demonstrating more advanced programming concepts.
+Applications demonstrating advanced Java programming concepts.
 
 **Highlights:**
 - Generic algorithms
@@ -132,72 +171,118 @@ Developed Java applications demonstrating more advanced programming concepts.
 
 **Technologies:** Java, JavaFX, Generics, Collections, Multithreading
 
----
-
 ### 🌐 PHP Server-Side Applications — CSD 440
 
-Developed server-side PHP applications using XAMPP.
-
-**Highlights:**
-- Dynamic PHP-generated HTML
-- Variables and output
-- Control flow
-- Nested loops
-- Dynamic table generation
-- HTML/CSS integration
+Server-side PHP applications developed using XAMPP.
 
 **Technologies:** PHP, HTML, CSS, XAMPP
 
 ---
 
-## 🎓 Education
+## 🛠️ Technical Skills
+
+### Data & Analytics
+- Python
+- SQL
+- pandas
+- NumPy
+- scikit-learn
+- Power BI
+- Tableau
+- R
+- Plotly
+- Advanced Excel
+- Data visualization
+- Predictive analytics
+- Business intelligence
+
+### Databases & Data Platforms
+- MySQL
+- Snowflake
+- Teradata
+- Hadoop
+- Spark
+- Relational database design
+- ERD / data modeling
+- Database normalization
+
+### Software Development
+- Java
+- Python
+- JavaScript
+- PHP
+- HTML5
+- CSS3
+- JSP
+- Java Servlets
+- Jakarta EE / JEE
+- JDBC
+- REST APIs
+- JSON
+- CRUD
+- MVC concepts
+- JavaFX
+
+### Cybersecurity
+- SIEM concepts
+- Incident response
+- Threat intelligence
+- Network security
+- IAM
+- Wireshark
+- Secure software development
+- NIST
+- MITRE ATT&CK
+- Cloud security concepts
+
+### Engineering & Tools
+- Git / GitHub
+- Eclipse
+- Spring Tools
+- Apache Tomcat
+- XAMPP
+- Docker concepts
+- Kubernetes concepts
+- Terraform concepts
+
+---
+
+## 🎓 Education & Certifications
 
 **Bellevue University**  
 Bachelor of Science in Software Development  
 **Expected October 2026**
 
-Relevant coursework includes:
-- Foundation of Software Development
-- Introduction to Programming with Python
-- Database Development and Use
-- Advanced Python
-- Web Development with HTML and CSS
-- Java for Programmers
-- Secure Software Development
-- Advanced Java Programming
-- DevOps
-- Server-Side Development
-- Server-Side Scripting
-- Capstone in Software Development
+Relevant areas include software development, Python, databases, Java, advanced Java, web development, secure software development, DevOps, server-side development, server-side scripting, and software development capstone work.
+
+Additional professional learning includes:
+- Google Data Analytics Certificate
+- Google Cybersecurity Professional Certificate
+- Data Analytics Essentials
+- Google Cybersecurity Specialization
 
 ---
 
-## 🔐 Software Engineering Foundations
+## 💼 The Business Advantage
 
-My coursework also includes formal study of:
+My differentiator is the combination of **technology capability and decades of real-world operational leadership**.
 
-- Secure software development
-- Secure design principles
-- Security testing
-- Code signing
-- Change and configuration control
-- Privacy and compliance concepts
-- DevOps and technology value streams
-- Version control
-- Application modernization
-- Software delivery and continuous improvement
+I have led complex transportation, distribution, fulfillment, retail, and supply-chain operations and understand the business questions behind the data:
 
----
+> **What happened? Why did it happen? What should we do next?**
 
-## 💼 Professional Perspective
+That perspective helps me translate technical analysis into operational decisions, measurable improvements, and business value.
 
-Before transitioning into software development, I spent more than three decades leading complex business and transportation operations.
+I'm particularly interested in opportunities at the intersection of:
 
-That experience gives me a practical perspective on software development:
-
-> **Good software should solve real problems, improve processes, and make people's work easier.**
-
-I'm particularly interested in opportunities where I can combine **software development, problem solving, data, technology, and business requirements**.
+- Data Analytics
+- Business Intelligence
+- Supply Chain Analytics
+- Operations Analytics
+- Transportation Analytics
+- Cybersecurity
+- Software Development
+- Technology-enabled operational improvement
 
 ---
 
@@ -210,12 +295,13 @@ I'm particularly interested in opportunities where I can combine **software deve
 
 ### Currently Seeking
 
-I'm interested in opportunities such as:
+Opportunities where I can combine **business leadership, analytics, technology, and problem solving**, including:
 
-- Software Developer
-- Application Developer
-- Java Developer
-- Backend Developer
-- Full-Stack Developer
-- Junior Software Engineer
-- Software Development / Technology roles where business and technical experience are valuable
+- Data Analyst / Business Analyst
+- Business Intelligence Analyst
+- Operations / Supply Chain Analytics
+- Transportation Analytics
+- Data Analytics roles
+- Cybersecurity Analyst opportunities
+- Software Development / Technology roles
+- Technology-focused operations and transformation roles
